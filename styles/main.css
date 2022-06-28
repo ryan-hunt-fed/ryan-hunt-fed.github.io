@@ -84,8 +84,8 @@ body{
 
 .main-text{
     background-color: white;
-    margin-left: 18px;
-    margin-right: 18px;
+    margin-left: 60px;
+    margin-right: 60px;
     padding: 3px;
     outline: 2px solid darkgray;
     text-align: center;
@@ -94,8 +94,8 @@ body{
 
 .main-titles{
     background-color: white;
-    margin-left: 18px;
-    margin-right: 18px;  
+    margin-left: 60px;
+    margin-right: 60px;  
 }
 
 .dev-links{
