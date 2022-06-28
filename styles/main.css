@@ -60,7 +60,7 @@ body{
 
 .about-text{
     background-color: white;
-    margin-left: 18px;
+    margin-left: 100px;
     margin-right: 350px;
     padding: 3px;
     outline: 2px solid darkgray;
@@ -70,7 +70,7 @@ body{
 
 .about-inner-text{
     background-color: white;
-    margin-left: 18px;
+    margin-left: 70px;
     margin-right: 50px; 
     
 }
