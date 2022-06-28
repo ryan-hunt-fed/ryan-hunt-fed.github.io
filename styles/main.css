@@ -84,8 +84,8 @@ body{
 
 .main-text{
     background-color: white;
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
     padding: 3px;
     outline: 2px solid darkgray;
     text-align: center;
@@ -94,8 +94,8 @@ body{
 
 .main-titles{
     background-color: white;
-    margin-left: 60px;
-    margin-right: 60px;  
+    margin-left: 100px;
+    margin-right: 100px;  
 }
 
 .dev-links{
@@ -168,4 +168,18 @@ a:visited{
     
 
 } 
+
+.main-text{
+    
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    
+}
+
+.main-titles{
+    
+    margin-left: 50px;
+    margin-right: 50px;  
+}
 }
