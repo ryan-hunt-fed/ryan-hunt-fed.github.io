@@ -4,8 +4,7 @@ body{
     padding:0;
 }
 
-.container{
-}
+
 
 .nav-ul{
     margin: 0;
@@ -152,7 +151,8 @@ a:visited{
 #per-img{
     height: 30%;
     width: auto;
-    float: right;
+    position: absolute;
+    right: 3%;
     border-radius: 10px 10px 10px 10px;
     margin-right: 50px;
     margin-left: 50px;
@@ -160,18 +160,24 @@ a:visited{
 }
 
 #margin-img{
-    height:40%;
-    width: auto;
+    height: auto;
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
+    display: block;
+    
+    
 
 }
 
 #padding-img{
-    height:60%;
-    width: auto;
+    height: auto;
+    width: 40%;
     margin-left: auto;
     margin-right: auto;
+    display: block;
+    
+    
 }
 
 figcaption{
@@ -203,21 +209,6 @@ figcaption{
 
 @media screen and (min-width: 1200px) {
 
-    #margin-img{
-        height:45%;
-        width: auto;
-        margin-left: auto;
-        margin-right: auto;
-    
-    }
-    
-    #padding-img{
-        height:65%;
-        width: auto;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    
     .nav-title{
         
         color: black;
@@ -311,19 +302,20 @@ figcaption{
         display: none;
     }
 
-    #margin-img{
-        height:15%;
-        width: auto;
+    #margin-img{ 
+        height: auto;
+        width: 40%;
         margin-left: auto;
         margin-right: auto;
-    
+        display: block;
     }
     
     #padding-img{
-        height:40%;
-        width: auto;
+        height: auto;
+        width: 20%;
         margin-left: auto;
         margin-right: auto;
+        display: block;
     }
     
     .nav-title{
