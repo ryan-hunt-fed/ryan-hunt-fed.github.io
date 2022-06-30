@@ -273,7 +273,7 @@ figcaption{
         background-color: white;
         margin-left: 6px;
         margin-right: 6px; 
-        margin-bottom: 80px;
+        margin-bottom: 5px;
         
     }
 
@@ -281,6 +281,7 @@ figcaption{
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
         margin-left: 6px;
         margin-right: 6px; 
+        margin-bottom: 5px;
         text-align: center;
     }
     
