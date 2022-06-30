@@ -241,7 +241,7 @@ figcaption{
 }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
     #per-img{
         display: none;
     }
