@@ -146,7 +146,7 @@ a:visited{
 }
 
 #per-img{
-    height: 30%;
+    height: 250px;
     width: auto;
     display: flex;
     flex-wrap: wrap;
