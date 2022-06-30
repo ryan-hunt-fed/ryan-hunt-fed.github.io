@@ -82,19 +82,20 @@ body{
 
 }
 
-.about-inner-text{
+.left-main-text{
     background-color: white;
     margin-left: 70px;
     margin-right: 50px; 
+    text-align: left;
     
 }
 
 
-.inner-main-text{
+.center-main-text{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
     margin-left: 60px;
     margin-right: 60px; 
-    
+    text-align: center;
 }
 
 .main-text{
@@ -141,9 +142,6 @@ a:visited{
     color: black;
 }
 
-.image{
-    
-}
 
 #per-img{
     height: 30%;
@@ -158,13 +156,16 @@ a:visited{
 #margin-img{
     height:40%;
     width: auto;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
 #padding-img{
     height:60%;
     width: auto;
-
+    margin-left: auto;
+    margin-right: auto;
 }
 
 figcaption{
