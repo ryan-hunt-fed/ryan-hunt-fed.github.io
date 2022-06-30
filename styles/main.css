@@ -146,11 +146,10 @@ a:visited{
 }
 
 #per-img{
-    height: 250px;
+    height: 40%;
     width: auto;
     display: flex;
     flex-wrap: wrap;
-    
     float: right;
     border-radius: 10px 10px 10px 10px;
     margin-right: 50px;
@@ -158,13 +157,13 @@ a:visited{
 }
 
 #margin-img{
-    height:300px;
+    height:40%;
     width: auto;
 
 }
 
 #padding-img{
-    height:350px;
+    height:60%;
     width: auto;
 
 }
@@ -195,7 +194,7 @@ figcaption{
     color: darkgreen;
 }
 
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 800px) {
 #per-img{
     display: none;
 }
