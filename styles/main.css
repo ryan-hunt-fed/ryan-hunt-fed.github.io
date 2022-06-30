@@ -4,6 +4,11 @@ body{
     padding:0;
 }
 
+.container{
+    
+
+}
+
 .nav-ul{
     margin: 0;
     padding: 0;
@@ -234,3 +239,57 @@ figcaption{
     margin-right: 50px;  
 }
 }
+
+@media screen and (max-width: 400px) {
+    #per-img{
+        display: none;
+    }
+
+    #margin-img{
+        height:20%;
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    
+    #padding-img{
+        height:40%;
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .about-inner-text{
+        background-color: white;
+        margin-left: 18px;
+        margin-right: 18px; 
+        margin-bottom: 80px;
+        
+    }
+    
+    .about-text{
+        background-color: white;
+        margin-left: 18px;
+        margin-right: 18px;
+        margin-bottom: 80px;
+        padding: 3px;
+        outline: 2px solid darkgray;
+        
+    
+    } 
+    
+    .main-text{
+        
+        margin-left: 50px;
+        margin-right: 50px;
+        
+        
+    }
+    
+    .main-titles{
+        
+        margin-left: 50px;
+        margin-right: 50px;  
+    }
+    }
