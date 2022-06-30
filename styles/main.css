@@ -149,13 +149,12 @@ a:visited{
 
 
 #per-img{
-    height: 30%;
-    width: auto;
-    position: absolute;
-    right: 3%;
+    height: auto;
+    width: 20%;
+    float: right;
     border-radius: 10px 10px 10px 10px;
     margin-right: 50px;
-    margin-left: 50px;
+    margin-left: 5%;
     box-shadow: darkgray 5px 5px 5px;
 }
 
