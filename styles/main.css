@@ -5,8 +5,6 @@ body{
 }
 
 .container{
-    
-
 }
 
 .nav-ul{
@@ -202,7 +200,74 @@ figcaption{
     color: darkgreen;
 }
 
-@media screen and (max-width: 800px) {
+
+@media screen and (min-width: 1200px) {
+
+    #margin-img{
+        height:45%;
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+    
+    }
+    
+    #padding-img{
+        height:65%;
+        width: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .nav-title{
+        
+        color: black;
+        font-size: 30px;
+        margin-left: 5px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    .left-main-text{
+        background-color: white;
+        margin-left: 60px;
+        margin-right: 60px; 
+        margin-bottom: 5px;
+        
+    }
+
+    .center-main-text{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+        margin-left: 60px;
+        margin-right: 60px; 
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    
+
+    .list-orientation{
+        text-align: left;
+        margin-right: 60px;
+        margin-left: 60px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    
+    }
+    
+    .main-text{
+        
+        margin-left: 150px;
+        margin-right: 150px;
+        
+        
+    }
+    
+    .main-titles{
+        
+        margin-left: 150px;
+        margin-right: 150px;  
+    }
+
+}
+
+@media screen and (max-width: 768px) {
 #per-img{
     display: none;
 }
@@ -241,7 +306,7 @@ figcaption{
 }
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 320px) {
     #per-img{
         display: none;
     }
