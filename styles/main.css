@@ -247,7 +247,7 @@ figcaption{
     }
 
     #margin-img{
-        height:20%;
+        height:15%;
         width: auto;
         margin-left: auto;
         margin-right: auto;
@@ -261,6 +261,14 @@ figcaption{
         margin-right: auto;
     }
     
+    .nav-title{
+        display: none;
+        color: black;
+        font-size: 30px;
+        margin-left: 5px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
     .left-main-text{
         background-color: white;
         margin-left: 6px;
@@ -286,6 +294,14 @@ figcaption{
         
     
     } 
+
+    .list-orientation{
+        text-align: left;
+        margin-right: 6px;
+        margin-left: 11px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+    
+    }
     
     .main-text{
         
