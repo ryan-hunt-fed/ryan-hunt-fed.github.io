@@ -146,14 +146,14 @@ a:visited{
 }
 
 #per-img{
-    height: 35%;
+    height: 30%;
     width: auto;
     display: flex;
     flex-wrap: wrap;
     float: right;
     border-radius: 10px 10px 10px 10px;
     margin-right: 50px;
-    margin-left: 30px;
+    margin-left: 40px;
     box-shadow: darkgray 5px 5px 5px;
 }
 
