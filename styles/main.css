@@ -124,7 +124,9 @@ body{
 
 .list-orientation{
     text-align: left;
-    margin-right: 30px;
+    margin-right: 40px;
+    margin-left: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
 
 }
 
