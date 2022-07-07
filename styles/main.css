@@ -187,6 +187,15 @@ a:visited{
     display: block;
 }
 
+.code-img{
+    height: auto;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
 figcaption{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
 
