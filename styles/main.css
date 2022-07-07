@@ -179,6 +179,14 @@ a:visited{
     
 }
 
+#dom-img{
+    height: auto;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 figcaption{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
 
@@ -254,6 +262,8 @@ figcaption{
         margin-left: 150px;
         margin-right: 150px;  
     }
+
+    
 
 }
 
